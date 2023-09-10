@@ -2,11 +2,7 @@ Pod 2 MFPE
 Pension Management System
 
 Developed by:
-Himanshu shivhare
-Khushagra sahu
-Saloni Mehra
-Deepansh
-Sumit 
+Yashaswini Kondakindi
 --------------------------------------------------------------------------------------------------
 Web Portal Access point: http://localhost:9096/
 
